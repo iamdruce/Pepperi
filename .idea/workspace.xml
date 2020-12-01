@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4cd9fb8-81a0-439c-90f1-f7351efb72cd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ks4JImcAQeiwLBMiySFT6StuWd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/test.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.test.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4cd9fb8-81a0-439c-90f1-f7351efb72cd" name="Default Changelist" comment="" />
+      <created>1606475891531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606475891531</updated>
+      <workItem from="1606475892676" duration="54426000" />
+      <workItem from="1606814173434" duration="294000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="159" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606767833945">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state x="304" y="159" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.957@0.23.1680.957" timestamp="1606767833945" />
+    <state width="1659" height="254" key="GridCell.Tab.0.bottom" timestamp="1606767778288">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state width="1659" height="254" key="GridCell.Tab.0.bottom/0.23.1680.957@0.23.1680.957" timestamp="1606767778288" />
+    <state width="1659" height="254" key="GridCell.Tab.0.center" timestamp="1606767778287">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state width="1659" height="254" key="GridCell.Tab.0.center/0.23.1680.957@0.23.1680.957" timestamp="1606767778287" />
+    <state width="1659" height="254" key="GridCell.Tab.0.left" timestamp="1606767778286">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state width="1659" height="254" key="GridCell.Tab.0.left/0.23.1680.957@0.23.1680.957" timestamp="1606767778286" />
+    <state width="1659" height="254" key="GridCell.Tab.0.right" timestamp="1606767778287">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state width="1659" height="254" key="GridCell.Tab.0.right/0.23.1680.957@0.23.1680.957" timestamp="1606767778287" />
+    <state width="500" height="400" key="SwitcherDM" timestamp="1606568492617">
+      <screen x="0" y="23" width="1680" height="951" />
+    </state>
+    <state width="500" height="400" key="SwitcherDM/0.23.1680.951@0.23.1680.951" timestamp="1606568492617" />
+    <state x="505" y="228" key="run.anything.popup" timestamp="1606566526922">
+      <screen x="0" y="23" width="1680" height="951" />
+    </state>
+    <state x="505" y="228" key="run.anything.popup/0.23.1680.951@0.23.1680.951" timestamp="1606566526922" />
+  </component>
+</project>
